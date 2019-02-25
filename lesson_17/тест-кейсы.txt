@@ -1,0 +1,31 @@
+Форма логина. Вход в ЛК.
+1. Открыть сайт mail.ru
+2. Ввести логин в поле с xpath .//input[@id ="mailbox:login"]
+3. Ввести пароль в поле с xpath .//input[@id ="mailbox:password"]
+4. Нажать на кнопку Войти с xpath .//input[@value ="Войти"]
+
+Ожидаемый результат:
+Пользователь авторизован. В правом верхнем углу появилась кнопка Выхода с xpath  .//a[@id="PH_logoutLink"]
+
+
+Форма логина. Вход в ЛК.(негативный результат)
+1. Открыть сайт mail.ru
+2. Ввести логин в поле с xpath .//input[@id ="mailbox:login"]
+3. Ввести пароль в поле с xpath .//input[@id ="mailbox:password"]
+4. Нажать на кнопку Войти с xpath .//input[@value ="Войти"]
+
+Ожидаемый результат:
+Пользователю отображается ошибка c xpath   .//div[@id="mailbox:error"]
+
+
+
+Форма логина. Вход в ЛК.(изменение домена)
+1. Открыть сайт mail.ru
+2. Ввести логин в поле с xpath .//input[@id ="mailbox:login"]
+3. Раскрыть выпадающий список с xpath .//select[@id= "mailbox:domain"]
+4. Выбрать значение .//option[text="@list.ru"]
+3. Ввести пароль в поле с xpath .//input[@id ="mailbox:password"]
+4. Нажать на кнопку Войти с xpath .//input[@value ="Войти"]
+
+Ожидаемый результат:
+Пользователю отображается ошибка c xpath   .//div[@id="mailbox:error"]
