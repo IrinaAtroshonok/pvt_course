@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>Песня</title>
+<link href="style.css" rel="stylesheet">
+</head>
+<body class= "center">
+<embed src="Faradenza.mp3"></embed>
+</body>
