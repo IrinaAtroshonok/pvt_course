@@ -1,0 +1,47 @@
+{
+  "uid" : "40096d7ac7e39bca",
+  "name" : "When I fill content",
+  "title" : "When I fill content",
+  "time" : {
+    "start" : 1554063503034,
+    "stop" : 1554063503034,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "d4ef93171f568004",
+    "name" : "Scenario: Send a mail",
+    "title" : "Scenario: send a mail"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Scenario: Send a mail"
+  }, {
+    "name" : "host",
+    "value" : "Irisha"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "24604@Irisha.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  } ],
+  "parameters" : [ ]
+}

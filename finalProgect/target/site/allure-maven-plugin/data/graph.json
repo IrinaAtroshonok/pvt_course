@@ -1,0 +1,993 @@
+{
+  "testCases" : [ {
+    "uid" : "d3ad939af81a262b",
+    "name" : "Given I decided to update post on the wall",
+    "title" : "Given I decided to update post on the wall",
+    "time" : {
+      "start" : 1554063447452,
+      "stop" : 1554063447452,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "b62955bf8de289ad",
+    "name" : "Given I decided to update post on the wall",
+    "title" : "Given I decided to update post on the wall",
+    "time" : {
+      "start" : 1554063447452,
+      "stop" : 1554063447452,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "4a243fc55bfe1905",
+    "name" : "When I sent update request",
+    "title" : "When I sent update request",
+    "time" : {
+      "start" : 1554063447457,
+      "stop" : 1554063447457,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "6e3ee733522a4ece",
+    "name" : "When I get response",
+    "title" : "When I get response",
+    "time" : {
+      "start" : 1554063447642,
+      "stop" : 1554063447642,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "8dffb9b355044bbd",
+    "name" : "Then I check json answer matches xml",
+    "title" : "Then I check json answer matches xml",
+    "time" : {
+      "start" : 1554063447647,
+      "stop" : 1554063447647,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "ff63c7caa5f22a0e",
+    "name" : "Given I am on page with \"https://mail.ru\" url",
+    "title" : "Ru\" url",
+    "time" : {
+      "start" : 1554063497245,
+      "stop" : 1554063497245,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "a6b246f77226fa0a",
+    "name" : "Given I am on page with \"https://mail.ru\" url",
+    "title" : "Ru\" url",
+    "time" : {
+      "start" : 1554063497245,
+      "stop" : 1554063497245,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "aec090926f141a7b",
+    "name" : "When I login as correct user",
+    "title" : "When I login as correct user",
+    "time" : {
+      "start" : 1554063500103,
+      "stop" : 1554063500103,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "14bf59580ee30d09",
+    "name" : "When I click a button New Mail",
+    "title" : "When I click a button new mail",
+    "time" : {
+      "start" : 1554063501146,
+      "stop" : 1554063501146,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "5705eab1fcb698d2",
+    "name" : "When I fill the field To",
+    "title" : "When I fill the field to",
+    "time" : {
+      "start" : 1554063502260,
+      "stop" : 1554063502260,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "a7b9d5336476ba8c",
+    "name" : "When I fill the field Topic",
+    "title" : "When I fill the field topic",
+    "time" : {
+      "start" : 1554063502714,
+      "stop" : 1554063502714,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "40096d7ac7e39bca",
+    "name" : "When I fill content",
+    "title" : "When I fill content",
+    "time" : {
+      "start" : 1554063503034,
+      "stop" : 1554063503034,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "4b0fe47acdc0361e",
+    "name" : "When I click a button Send",
+    "title" : "When I click a button send",
+    "time" : {
+      "start" : 1554063503462,
+      "stop" : 1554063503462,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "b6ac75807741e888",
+    "name" : "Then I check if mail is sended",
+    "title" : "Then I check if mail is sended",
+    "time" : {
+      "start" : 1554063504770,
+      "stop" : 1554063504770,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "be0811a16c72bc66",
+    "name" : "Given I am on page with \"https://mail.ru\" url",
+    "title" : "Ru\" url",
+    "time" : {
+      "start" : 1554063473833,
+      "stop" : 1554063473833,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "8d63e82ca6a99294",
+    "name" : "Given I am on page with \"https://mail.ru\" url",
+    "title" : "Ru\" url",
+    "time" : {
+      "start" : 1554063473833,
+      "stop" : 1554063473833,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "c01affdbd50b9151",
+    "name" : "When I login as correct user",
+    "title" : "When I login as correct user",
+    "time" : {
+      "start" : 1554063476902,
+      "stop" : 1554063476902,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "fe456628d39e24e9",
+    "name" : "When I click more in main menu",
+    "title" : "When I click more in main menu",
+    "time" : {
+      "start" : 1554063477343,
+      "stop" : 1554063477343,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "9dcb8da9e7c8c785",
+    "name" : "When I open settings",
+    "title" : "When I open settings",
+    "time" : {
+      "start" : 1554063479307,
+      "stop" : 1554063479307,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "e68c7d6d1ad4ff5c",
+    "name" : "When I open filter settings",
+    "title" : "When I open filter settings",
+    "time" : {
+      "start" : 1554063481452,
+      "stop" : 1554063481452,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "27f40c022f88b37",
+    "name" : "When I click delete button",
+    "title" : "When I click delete button",
+    "time" : {
+      "start" : 1554063481873,
+      "stop" : 1554063481873,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "e01072e22a50090b",
+    "name" : "When I confirm delete",
+    "title" : "When I confirm delete",
+    "time" : {
+      "start" : 1554063482250,
+      "stop" : 1554063482250,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "869cc918c047f67e",
+    "name" : "Then I see that filter deleted",
+    "title" : "Then I see that filter deleted",
+    "time" : {
+      "start" : 1554063482989,
+      "stop" : 1554063482989,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "4fcd1385d1b872b8",
+    "name" : "Given I am on page with \"https://mail.ru\" url",
+    "title" : "Ru\" url",
+    "time" : {
+      "start" : 1554063452603,
+      "stop" : 1554063452603,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "96bd4ac86e25e53e",
+    "name" : "Given I am on page with \"https://mail.ru\" url",
+    "title" : "Ru\" url",
+    "time" : {
+      "start" : 1554063452603,
+      "stop" : 1554063452603,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "ab72d0c6625e9738",
+    "name" : "When I choose link astrology",
+    "title" : "When I choose link astrology",
+    "time" : {
+      "start" : 1554063454842,
+      "stop" : 1554063454842,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "481654bab3410aa7",
+    "name" : "When I open page with all sign of the zodiac",
+    "title" : "When I open page with all sign of the zodiac",
+    "time" : {
+      "start" : 1554063455326,
+      "stop" : 1554063455326,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "bcdeca5163c686c6",
+    "name" : "When I choose sign Scorpion",
+    "title" : "When I choose sign scorpion",
+    "time" : {
+      "start" : 1554063458026,
+      "stop" : 1554063458026,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f2b86f6ce1a8896",
+    "name" : "When I choose astrology period",
+    "title" : "When I choose astrology period",
+    "time" : {
+      "start" : 1554063459946,
+      "stop" : 1554063459946,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "25ef0786a463e54",
+    "name" : "Then I see astrological forecast",
+    "title" : "Then I see astrological forecast",
+    "time" : {
+      "start" : 1554063459983,
+      "stop" : 1554063459983,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "2419f366c0ed58a6",
+    "name" : "Given I am on page with \"https://mail.ru\" url",
+    "title" : "Ru\" url",
+    "time" : {
+      "start" : 1554063518069,
+      "stop" : 1554063518069,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "5bf66f33f943dbd4",
+    "name" : "Given I am on page with \"https://mail.ru\" url",
+    "title" : "Ru\" url",
+    "time" : {
+      "start" : 1554063518069,
+      "stop" : 1554063518069,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "c983d015762cb284",
+    "name" : "When I login as correct user",
+    "title" : "When I login as correct user",
+    "time" : {
+      "start" : 1554063520759,
+      "stop" : 1554063520759,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "b5372676a31fd6af",
+    "name" : "When I choose a mail",
+    "title" : "When I choose a mail",
+    "time" : {
+      "start" : 1554063521146,
+      "stop" : 1554063521146,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f644cd4727c56e2f",
+    "name" : "When I click a button Spam",
+    "title" : "When I click a button spam",
+    "time" : {
+      "start" : 1554063521579,
+      "stop" : 1554063521579,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "711ea0a8cefc7657",
+    "name" : "Then I check if mail is in spam",
+    "title" : "Then I check if mail is in spam",
+    "time" : {
+      "start" : 1554063522703,
+      "stop" : 1554063522703,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "93bbf2978b31bbe1",
+    "name" : "Given I am on page with \"https://mail.ru\" url",
+    "title" : "Ru\" url",
+    "time" : {
+      "start" : 1554063511364,
+      "stop" : 1554063511364,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "698d0a918d282a64",
+    "name" : "Given I am on page with \"https://mail.ru\" url",
+    "title" : "Ru\" url",
+    "time" : {
+      "start" : 1554063511364,
+      "stop" : 1554063511364,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "21c8f649520a9b70",
+    "name" : "When I login as correct user",
+    "title" : "When I login as correct user",
+    "time" : {
+      "start" : 1554063514106,
+      "stop" : 1554063514106,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "72d1c88e1760514e",
+    "name" : "When I choose a few mails",
+    "title" : "When I choose a few mails",
+    "time" : {
+      "start" : 1554063514547,
+      "stop" : 1554063514547,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "d0bf1a1e122b5651",
+    "name" : "When I click move",
+    "title" : "When I click move",
+    "time" : {
+      "start" : 1554063514941,
+      "stop" : 1554063514941,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "59d3b91702f93b1c",
+    "name" : "When I click button new folder",
+    "title" : "When I click button new folder",
+    "time" : {
+      "start" : 1554063515458,
+      "stop" : 1554063515458,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "c8f3c895326e06d0",
+    "name" : "When I fill the field folder name",
+    "title" : "When I fill the field folder name",
+    "time" : {
+      "start" : 1554063515817,
+      "stop" : 1554063515817,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "bee50d66c85afe90",
+    "name" : "When I click button submit",
+    "title" : "When I click button submit",
+    "time" : {
+      "start" : 1554063516233,
+      "stop" : 1554063516233,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "225cfcd079bc224",
+    "name" : "Then I see message that folder create",
+    "title" : "Then I see message that folder create",
+    "time" : {
+      "start" : 1554063517056,
+      "stop" : 1554063517056,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "59ca86ebd3b63c18",
+    "name" : "Given I am on page with \"https://mail.ru\" url",
+    "title" : "Ru\" url",
+    "time" : {
+      "start" : 1554063483920,
+      "stop" : 1554063483920,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "8039120e3b8ec21b",
+    "name" : "Given I am on page with \"https://mail.ru\" url",
+    "title" : "Ru\" url",
+    "time" : {
+      "start" : 1554063483920,
+      "stop" : 1554063483920,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "7a076abf0adeca98",
+    "name" : "When I login as correct user",
+    "title" : "When I login as correct user",
+    "time" : {
+      "start" : 1554063486588,
+      "stop" : 1554063486588,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "510a680b5ce1cb95",
+    "name" : "When I choose a few mails",
+    "title" : "When I choose a few mails",
+    "time" : {
+      "start" : 1554063487053,
+      "stop" : 1554063487053,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "82970e8785986065",
+    "name" : "When I click button more",
+    "title" : "When I click button more",
+    "time" : {
+      "start" : 1554063487482,
+      "stop" : 1554063487482,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f82029546bd4b0d3",
+    "name" : "When I flag letters",
+    "title" : "When I flag letters",
+    "time" : {
+      "start" : 1554063487962,
+      "stop" : 1554063487962,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "12e40800d3e07abf",
+    "name" : "Then I check whether the letters are flagged",
+    "title" : "Then I check whether the letters are flagged",
+    "time" : {
+      "start" : 1554063488750,
+      "stop" : 1554063488750,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "6ca49929f3ebfe11",
+    "name" : "Given I decided to post on the wall",
+    "title" : "Given I decided to post on the wall",
+    "time" : {
+      "start" : 1554063446881,
+      "stop" : 1554063446885,
+      "duration" : 4
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "a70f00131ab482e5",
+    "name" : "Given I decided to post on the wall",
+    "title" : "Given I decided to post on the wall",
+    "time" : {
+      "start" : 1554063446881,
+      "stop" : 1554063446885,
+      "duration" : 4
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "2c0fcaf1e4f519e7",
+    "name" : "When I sent post request",
+    "title" : "When I sent post request",
+    "time" : {
+      "start" : 1554063446941,
+      "stop" : 1554063446941,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "cea41fef57f6eb53",
+    "name" : "When I get response",
+    "title" : "When I get response",
+    "time" : {
+      "start" : 1554063447443,
+      "stop" : 1554063447443,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "1fcef6010e39b499",
+    "name" : "Then I check is it posted",
+    "title" : "Then I check is it posted",
+    "time" : {
+      "start" : 1554063447448,
+      "stop" : 1554063447448,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f16a22c54f2dfc58",
+    "name" : "Given I am on page with \"https://mail.ru\" url",
+    "title" : "Ru\" url",
+    "time" : {
+      "start" : 1554063505810,
+      "stop" : 1554063505810,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "bf7e93ece5d134af",
+    "name" : "Given I am on page with \"https://mail.ru\" url",
+    "title" : "Ru\" url",
+    "time" : {
+      "start" : 1554063505810,
+      "stop" : 1554063505810,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "351fd983dcf58984",
+    "name" : "When I login as correct user",
+    "title" : "When I login as correct user",
+    "time" : {
+      "start" : 1554063508548,
+      "stop" : 1554063508548,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "2b99a29add98e1c2",
+    "name" : "When I choose a mail",
+    "title" : "When I choose a mail",
+    "time" : {
+      "start" : 1554063508951,
+      "stop" : 1554063508951,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f8ee317df3480f43",
+    "name" : "When I click a button Delete",
+    "title" : "When I click a button delete",
+    "time" : {
+      "start" : 1554063509377,
+      "stop" : 1554063509377,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "605f32a33b646a17",
+    "name" : "Then I check if mail is deleted",
+    "title" : "Then I check if mail is deleted",
+    "time" : {
+      "start" : 1554063510399,
+      "stop" : 1554063510399,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "aed5ac16badf25b6",
+    "name" : "Given I am on page with \"https://mail.ru\" url",
+    "title" : "Ru\" url",
+    "time" : {
+      "start" : 1554063489652,
+      "stop" : 1554063489652,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "21dcda31c70473ac",
+    "name" : "Given I am on page with \"https://mail.ru\" url",
+    "title" : "Ru\" url",
+    "time" : {
+      "start" : 1554063489652,
+      "stop" : 1554063489652,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "916b15308ebd5547",
+    "name" : "When I login as correct user",
+    "title" : "When I login as correct user",
+    "time" : {
+      "start" : 1554063492628,
+      "stop" : 1554063492628,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "a467fa0e0253adcf",
+    "name" : "When I choose all mails",
+    "title" : "When I choose all mails",
+    "time" : {
+      "start" : 1554063493013,
+      "stop" : 1554063493013,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "1362057094123b1e",
+    "name" : "When I click button more",
+    "title" : "When I click button more",
+    "time" : {
+      "start" : 1554063493410,
+      "stop" : 1554063493410,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "56fc3d7fbfb43984",
+    "name" : "When I flag letters",
+    "title" : "When I flag letters",
+    "time" : {
+      "start" : 1554063493895,
+      "stop" : 1554063493895,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "42818f0fccaf5ae2",
+    "name" : "When I click button more",
+    "title" : "When I click button more",
+    "time" : {
+      "start" : 1554063494317,
+      "stop" : 1554063494318,
+      "duration" : 1
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "d370eac13680c367",
+    "name" : "When I remove the flag",
+    "title" : "When I remove the flag",
+    "time" : {
+      "start" : 1554063494835,
+      "stop" : 1554063494835,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "e379373bb6867cd0",
+    "name" : "When I click button more",
+    "title" : "When I click button more",
+    "time" : {
+      "start" : 1554063495248,
+      "stop" : 1554063495248,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "eae4796cf470e2ea",
+    "name" : "Then I check if flag is not set",
+    "title" : "Then I check if flag is not set",
+    "time" : {
+      "start" : 1554063496111,
+      "stop" : 1554063496111,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "b7539d0a5b62c378",
+    "name" : "Given I am on page with \"https://mail.ru\" url",
+    "title" : "Ru\" url",
+    "time" : {
+      "start" : 1554063523534,
+      "stop" : 1554063523534,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "8b8f133f2a17993c",
+    "name" : "Given I am on page with \"https://mail.ru\" url",
+    "title" : "Ru\" url",
+    "time" : {
+      "start" : 1554063523534,
+      "stop" : 1554063523534,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "e692e1df4ee9021c",
+    "name" : "When I login as correct user",
+    "title" : "When I login as correct user",
+    "time" : {
+      "start" : 1554063526243,
+      "stop" : 1554063526243,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "9eedcb716e2ba521",
+    "name" : "When I open1 spam folder",
+    "title" : "When I open 1 spam folder",
+    "time" : {
+      "start" : 1554063526807,
+      "stop" : 1554063526807,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "8e4b7ebd1186025d",
+    "name" : "When I choose a mail in spam",
+    "title" : "When I choose a mail in spam",
+    "time" : {
+      "start" : 1554063527266,
+      "stop" : 1554063527266,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "88135ca9698a6ae4",
+    "name" : "When I click a button NOT Spam",
+    "title" : "When I click a button NOT spam",
+    "time" : {
+      "start" : 1554063527689,
+      "stop" : 1554063527689,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "bc9daad3e9edc13c",
+    "name" : "Then I check if mail is not in spam",
+    "title" : "Then I check if mail is not in spam",
+    "time" : {
+      "start" : 1554063528628,
+      "stop" : 1554063528628,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "2092c99ee40b4978",
+    "name" : "Given I am on page with \"https://mail.ru\" url",
+    "title" : "Ru\" url",
+    "time" : {
+      "start" : 1554063461214,
+      "stop" : 1554063461214,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "9da58778c65f468",
+    "name" : "Given I am on page with \"https://mail.ru\" url",
+    "title" : "Ru\" url",
+    "time" : {
+      "start" : 1554063461214,
+      "stop" : 1554063461214,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "a3226809ffeadc9",
+    "name" : "When I login as correct user",
+    "title" : "When I login as correct user",
+    "time" : {
+      "start" : 1554063465968,
+      "stop" : 1554063465968,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "d5bd466a6bb50ebe",
+    "name" : "When I choose a mail",
+    "title" : "When I choose a mail",
+    "time" : {
+      "start" : 1554063466391,
+      "stop" : 1554063466391,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "6393dda55fe6ea59",
+    "name" : "When I click button more",
+    "title" : "When I click button more",
+    "time" : {
+      "start" : 1554063466861,
+      "stop" : 1554063466861,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "d99b59ec3ab5b166",
+    "name" : "When I open popup for create new filter",
+    "title" : "When I open popup for create new filter",
+    "time" : {
+      "start" : 1554063469391,
+      "stop" : 1554063469391,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "d3cff8a939ec0d7f",
+    "name" : "When I open all folders",
+    "title" : "When I open all folders",
+    "time" : {
+      "start" : 1554063469759,
+      "stop" : 1554063469759,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "4799d0c681624c5c",
+    "name" : "When I choose folder",
+    "title" : "When I choose folder",
+    "time" : {
+      "start" : 1554063470137,
+      "stop" : 1554063470137,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "49f433f2d5a56c06",
+    "name" : "When I save Filter",
+    "title" : "When I save filter",
+    "time" : {
+      "start" : 1554063471962,
+      "stop" : 1554063471963,
+      "duration" : 1
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "189762c85c560e67",
+    "name" : "Then I see message that filter created",
+    "title" : "Then I see message that filter created",
+    "time" : {
+      "start" : 1554063472773,
+      "stop" : 1554063472773,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  } ]
+}

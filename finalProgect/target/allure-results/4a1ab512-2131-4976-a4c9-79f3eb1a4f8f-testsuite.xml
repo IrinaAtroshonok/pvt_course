@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1554063510401" stop="1554063528936" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Scenario: Moving letters to a new folder</name>
+    <test-cases>
+        <test-case start="1554063511364" stop="1554063511364" status="passed">
+            <name>Given I am on page with "https://mail.ru" url</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063511364" stop="1554063511364" status="passed">
+            <name>Given I am on page with "https://mail.ru" url</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063514106" stop="1554063514106" status="passed">
+            <name>When I login as correct user</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063514547" stop="1554063514547" status="passed">
+            <name>When I choose a few mails</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063514941" stop="1554063514941" status="passed">
+            <name>When I click move</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063515458" stop="1554063515458" status="passed">
+            <name>When I click button new folder</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063515817" stop="1554063515817" status="passed">
+            <name>When I fill the field folder name</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063516233" stop="1554063516233" status="passed">
+            <name>When I click button submit</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063517056" stop="1554063517056" status="passed">
+            <name>Then I see message that folder create</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

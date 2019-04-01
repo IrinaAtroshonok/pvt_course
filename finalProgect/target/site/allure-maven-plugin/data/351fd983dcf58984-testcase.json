@@ -1,0 +1,47 @@
+{
+  "uid" : "351fd983dcf58984",
+  "name" : "When I login as correct user",
+  "title" : "When I login as correct user",
+  "time" : {
+    "start" : 1554063508548,
+    "stop" : 1554063508548,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "59a47cd3758c6aa",
+    "name" : "Scenario: Delete a mail",
+    "title" : "Scenario: delete a mail"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Irisha"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "24604@Irisha.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Delete a mail"
+  } ],
+  "parameters" : [ ]
+}

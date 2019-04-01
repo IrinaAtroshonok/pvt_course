@@ -1,0 +1,47 @@
+{
+  "uid" : "27f40c022f88b37",
+  "name" : "When I click delete button",
+  "title" : "When I click delete button",
+  "time" : {
+    "start" : 1554063481873,
+    "stop" : 1554063481873,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "473a458f97cc5761",
+    "name" : "Scenario: Delete filter",
+    "title" : "Scenario: delete filter"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Irisha"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "24604@Irisha.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Delete filter"
+  } ],
+  "parameters" : [ ]
+}

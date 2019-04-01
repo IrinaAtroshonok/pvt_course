@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1554063488751" stop="1554063528638" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Scenario: Removing the flag from the letters</name>
+    <test-cases>
+        <test-case start="1554063489652" stop="1554063489652" status="passed">
+            <name>Given I am on page with "https://mail.ru" url</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063489652" stop="1554063489652" status="passed">
+            <name>Given I am on page with "https://mail.ru" url</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063492628" stop="1554063492628" status="passed">
+            <name>When I login as correct user</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063493013" stop="1554063493013" status="passed">
+            <name>When I choose all mails</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063493410" stop="1554063493410" status="passed">
+            <name>When I click button more</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063493895" stop="1554063493895" status="passed">
+            <name>When I flag letters</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063494317" stop="1554063494318" status="passed">
+            <name>When I click button more</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063494835" stop="1554063494835" status="passed">
+            <name>When I remove the flag</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063495248" stop="1554063495248" status="passed">
+            <name>When I click button more</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063496111" stop="1554063496111" status="passed">
+            <name>Then I check if flag is not set</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

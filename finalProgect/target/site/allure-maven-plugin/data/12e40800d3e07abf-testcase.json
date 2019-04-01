@@ -1,0 +1,47 @@
+{
+  "uid" : "12e40800d3e07abf",
+  "name" : "Then I check whether the letters are flagged",
+  "title" : "Then I check whether the letters are flagged",
+  "time" : {
+    "start" : 1554063488750,
+    "stop" : 1554063488750,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "f225703f71a5e2eb",
+    "name" : "Scenario: Flag letters",
+    "title" : "Scenario: flag letters"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Irisha"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "24604@Irisha.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Flag letters"
+  } ],
+  "parameters" : [ ]
+}

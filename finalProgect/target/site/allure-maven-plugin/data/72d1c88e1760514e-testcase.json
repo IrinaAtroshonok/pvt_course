@@ -1,0 +1,47 @@
+{
+  "uid" : "72d1c88e1760514e",
+  "name" : "When I choose a few mails",
+  "title" : "When I choose a few mails",
+  "time" : {
+    "start" : 1554063514547,
+    "stop" : 1554063514547,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "bbc4c35d5bf8b1c5",
+    "name" : "Scenario: Moving letters to a new folder",
+    "title" : "Scenario: moving letters to a new folder"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Irisha"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "24604@Irisha.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Moving letters to a new folder"
+  } ],
+  "parameters" : [ ]
+}

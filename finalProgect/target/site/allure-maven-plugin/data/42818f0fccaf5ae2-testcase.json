@@ -1,0 +1,47 @@
+{
+  "uid" : "42818f0fccaf5ae2",
+  "name" : "When I click button more",
+  "title" : "When I click button more",
+  "time" : {
+    "start" : 1554063494317,
+    "stop" : 1554063494318,
+    "duration" : 1
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "b642bff6db347157",
+    "name" : "Scenario: Removing the flag from the letters",
+    "title" : "Scenario: removing the flag from the letters"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Irisha"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "24604@Irisha.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Removing the flag from the letters"
+  } ],
+  "parameters" : [ ]
+}

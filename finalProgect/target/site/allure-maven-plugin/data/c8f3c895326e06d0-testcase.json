@@ -1,0 +1,47 @@
+{
+  "uid" : "c8f3c895326e06d0",
+  "name" : "When I fill the field folder name",
+  "title" : "When I fill the field folder name",
+  "time" : {
+    "start" : 1554063515817,
+    "stop" : 1554063515817,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "bbc4c35d5bf8b1c5",
+    "name" : "Scenario: Moving letters to a new folder",
+    "title" : "Scenario: moving letters to a new folder"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Irisha"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "24604@Irisha.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Moving letters to a new folder"
+  } ],
+  "parameters" : [ ]
+}
