@@ -1,0 +1,47 @@
+{
+  "uid" : "605f32a33b646a17",
+  "name" : "Then I check if mail is deleted",
+  "title" : "Then I check if mail is deleted",
+  "time" : {
+    "start" : 1554063510399,
+    "stop" : 1554063510399,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "59a47cd3758c6aa",
+    "name" : "Scenario: Delete a mail",
+    "title" : "Scenario: delete a mail"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Irisha"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "24604@Irisha.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Delete a mail"
+  } ],
+  "parameters" : [ ]
+}

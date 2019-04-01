@@ -1,0 +1,47 @@
+{
+  "uid" : "4b0fe47acdc0361e",
+  "name" : "When I click a button Send",
+  "title" : "When I click a button send",
+  "time" : {
+    "start" : 1554063503462,
+    "stop" : 1554063503462,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "d4ef93171f568004",
+    "name" : "Scenario: Send a mail",
+    "title" : "Scenario: send a mail"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Scenario: Send a mail"
+  }, {
+    "name" : "host",
+    "value" : "Irisha"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "24604@Irisha.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  } ],
+  "parameters" : [ ]
+}

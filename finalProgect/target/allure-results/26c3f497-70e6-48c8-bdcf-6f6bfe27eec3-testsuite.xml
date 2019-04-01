@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1554063472775" stop="1554063528904" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Scenario: Delete filter</name>
+    <test-cases>
+        <test-case start="1554063473833" stop="1554063473833" status="passed">
+            <name>Given I am on page with "https://mail.ru" url</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063473833" stop="1554063473833" status="passed">
+            <name>Given I am on page with "https://mail.ru" url</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063476902" stop="1554063476902" status="passed">
+            <name>When I login as correct user</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063477343" stop="1554063477343" status="passed">
+            <name>When I click more in main menu</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063479307" stop="1554063479307" status="passed">
+            <name>When I open settings</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063481452" stop="1554063481452" status="passed">
+            <name>When I open filter settings</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063481873" stop="1554063481873" status="passed">
+            <name>When I click delete button</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063482250" stop="1554063482250" status="passed">
+            <name>When I confirm delete</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063482989" stop="1554063482989" status="passed">
+            <name>Then I see that filter deleted</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

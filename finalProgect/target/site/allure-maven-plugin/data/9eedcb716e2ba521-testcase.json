@@ -1,0 +1,47 @@
+{
+  "uid" : "9eedcb716e2ba521",
+  "name" : "When I open1 spam folder",
+  "title" : "When I open 1 spam folder",
+  "time" : {
+    "start" : 1554063526807,
+    "stop" : 1554063526807,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "992ed9e96a024fbc",
+    "name" : "Scenario: Extract mail from spam",
+    "title" : "Scenario: extract mail from spam"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Irisha"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "24604@Irisha.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Extract mail from spam"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  } ],
+  "parameters" : [ ]
+}

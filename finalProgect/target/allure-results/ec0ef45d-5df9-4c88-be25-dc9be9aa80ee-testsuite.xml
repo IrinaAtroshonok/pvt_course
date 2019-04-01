@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1554063459983" stop="1554063528960" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Scenario: Create filter</name>
+    <test-cases>
+        <test-case start="1554063461214" stop="1554063461214" status="passed">
+            <name>Given I am on page with "https://mail.ru" url</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063461214" stop="1554063461214" status="passed">
+            <name>Given I am on page with "https://mail.ru" url</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063465968" stop="1554063465968" status="passed">
+            <name>When I login as correct user</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063466391" stop="1554063466391" status="passed">
+            <name>When I choose a mail</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063466861" stop="1554063466861" status="passed">
+            <name>When I click button more</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063469391" stop="1554063469391" status="passed">
+            <name>When I open popup for create new filter</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063469759" stop="1554063469759" status="passed">
+            <name>When I open all folders</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063470137" stop="1554063470137" status="passed">
+            <name>When I choose folder</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063471962" stop="1554063471963" status="passed">
+            <name>When I save Filter</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063472773" stop="1554063472773" status="passed">
+            <name>Then I see message that filter created</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

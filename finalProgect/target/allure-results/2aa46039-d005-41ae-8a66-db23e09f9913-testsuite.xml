@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1554063447649" stop="1554063528878" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Scenario: See the astrological forecast for the scorpion for the year</name>
+    <test-cases>
+        <test-case start="1554063452603" stop="1554063452603" status="passed">
+            <name>Given I am on page with "https://mail.ru" url</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063452603" stop="1554063452603" status="passed">
+            <name>Given I am on page with "https://mail.ru" url</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063454842" stop="1554063454842" status="passed">
+            <name>When I choose link astrology</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063455326" stop="1554063455326" status="passed">
+            <name>When I open page with all sign of the zodiac</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063458026" stop="1554063458026" status="passed">
+            <name>When I choose sign Scorpion</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063459946" stop="1554063459946" status="passed">
+            <name>When I choose astrology period</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554063459983" stop="1554063459983" status="passed">
+            <name>Then I see astrological forecast</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Irisha"/>
+                <label name="thread" value="24604@Irisha.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

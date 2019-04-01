@@ -1,0 +1,47 @@
+{
+  "uid" : "b5372676a31fd6af",
+  "name" : "When I choose a mail",
+  "title" : "When I choose a mail",
+  "time" : {
+    "start" : 1554063521146,
+    "stop" : 1554063521146,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "43b1b58254899f07",
+    "name" : "Scenario: Put mail into spam",
+    "title" : "Scenario: put mail into spam"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Irisha"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "24604@Irisha.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Put mail into spam"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,289 @@
+17:59:45,595  INFO main ProgectStepsMailRu:loginAsCorrectUser:54 - authorization was successful
+17:59:48,819  INFO main ProgectStepsMailRu:checkIfMailIsSended:85 - mai sent
+23:34:40,618  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:45:07,259  INFO main ProgectStepsMailRu:clickEnterButton:31 - authorization was successful
+21:18:18,070  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+21:18:21,175  INFO main ProgectStepsMailRu:checkIfMailIsSended:79 - mail sent
+21:30:00,555  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+21:30:03,516  INFO main ProgectStepsMailRu:checkIfMailIsSended:79 - mail sent
+16:30:57,636  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+16:31:03,017  INFO main ProgectStepsMailRu:checkIfMailIsSended:79 - mail sent
+16:32:58,662  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+16:33:03,658  INFO main ProgectStepsMailRu:checkIfMailIsSended:79 - mail sent
+16:33:48,628  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+16:33:53,177  INFO main ProgectStepsMailRu:checkIfMailIsSended:79 - mail sent
+16:33:54,350 ERROR main ProgectStepsMailRu:clickRadioButtonIn:87 - no letters
+16:34:29,352  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+16:44:43,847  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+16:46:39,771  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+16:46:45,081  INFO main ProgectStepsMailRu:checkIfMailIsSended:80 - mail sent
+16:46:50,442  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+16:52:02,855  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+16:52:08,659  INFO main ProgectStepsMailRu:checkIfMailIsSended:80 - mail sent
+16:52:13,900  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+16:52:16,545  INFO main ProgectStepsMailRu:checkIfMailIsDeleted:102 - mail deleted
+16:52:21,664  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+16:52:25,244  INFO main ProgectStepsMailRu:newFolderCreated:195 - folder created
+16:55:16,897  INFO main ProgectStepsMailRu:doesISeeForecast:162 - get astrological forecast
+16:55:23,970  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+16:55:31,887  INFO main ProgectStepsMailRu:isFilterCreate:256 - filter created
+16:55:38,563  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+16:55:47,372  INFO main ProgectStepsMailRu:isFilterDelete:288 - filter deleted
+16:57:01,517  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+16:57:03,693  INFO main ProgectStepsMailRu:areLettersFlugged:212 - letters are flagged
+16:59:30,495  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+16:59:33,367  INFO main ProgectStepsMailRu:areLettersFlugged:212 - letters are flagged
+16:59:39,334  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+16:59:42,250  INFO main ProgectStepsMailRu:flagNotSet:229 - flag is not set
+17:04:22,688  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+17:04:25,511  INFO main ProgectStepsMailRu:checkIfMailInSpam:114 - mail in spam
+17:04:31,732  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+17:06:55,311  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+17:06:58,014  INFO main ProgectStepsMailRu:checkIfMailInSpam:114 - mail in spam
+17:07:02,877  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+17:07:06,640  INFO main ProgectStepsMailRu:checkIfMailNotInSpam:136 - mail is not in spam
+19:10:33,473  INFO main ProgectStepsMailRu:doesISeeForecast:160 - get astrological forecast
+20:25:20,258  INFO main ProgectStepsMailRu:doesISeeForecast:160 - get astrological forecast
+21:17:15,956  INFO main ProgectStepsMailRu:doesISeeForecast:160 - get astrological forecast
+21:21:44,626  INFO main ProgectStepsMailRu:doesISeeForecast:165 - get astrological forecast
+21:21:50,747  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+21:21:52,304  INFO main ProgectStepsMailRu:areLettersFlugged:215 - letters are flagged
+21:21:55,611  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+21:21:57,344  INFO main ProgectStepsMailRu:flagNotSet:232 - flag is not set
+21:27:18,633  INFO main ProgectStepsMailRu:doesISeeForecast:161 - get astrological forecast
+21:31:25,464  INFO main ProgectStepsMailRu:doesISeeForecast:161 - get astrological forecast
+21:48:48,956  INFO main ProgectStepsMailRu:doesISeeForecast:161 - get astrological forecast
+22:38:07,786  INFO main ProgectStepsMailRu:doesISeeForecast:170 - get astrological forecast
+22:38:13,994  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+22:38:16,568  INFO main ProgectStepsMailRu:checkIfMailIsDeleted:110 - mail deleted
+18:18:48,227  INFO main ProgectStepsMailRu:doesISeeForecast:167 - get astrological forecast
+18:18:54,001  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+18:18:57,930  INFO main ProgectStepsMailRu:checkIfMailIsSended:85 - mail sent
+18:19:02,401  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+18:19:04,270  INFO main ProgectStepsMailRu:checkIfMailIsDeleted:107 - mail deleted
+18:19:08,038  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+18:19:09,990  INFO main ProgectStepsMailRu:newFolderCreated:200 - folder created
+18:20:14,156  INFO main ProgectStepsMailRu:doesISeeForecast:167 - get astrological forecast
+18:20:20,694  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+18:20:24,794  INFO main ProgectStepsMailRu:checkIfMailIsSended:85 - mail sent
+18:20:29,138  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+18:20:30,965  INFO main ProgectStepsMailRu:checkIfMailIsDeleted:107 - mail deleted
+18:20:35,337  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+18:22:23,253  INFO main ProgectStepsMailRu:doesISeeForecast:167 - get astrological forecast
+18:45:38,690  INFO main ProgectStepsMailRu:doesISeeForecast:167 - get astrological forecast
+19:13:01,054  INFO main ProgectStepsMailRu:doesISeeForecast:167 - get astrological forecast
+20:52:40,153  INFO main ProgectStepsMailRu:doesISeeForecast:167 - get astrological forecast
+21:02:59,012  INFO main ProgectStepsMailRu:doesISeeForecast:167 - get astrological forecast
+21:03:05,067  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:03:07,069  INFO main ProgectStepsMailRu:checkIfMailIsDeleted:107 - mail deleted
+21:08:48,659  INFO main ProgectStepsMailRu:doesISeeForecast:167 - get astrological forecast
+21:08:55,285  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:09:01,462  INFO main ProgectStepsMailRu:isFilterCreate:261 - filter created
+21:09:06,088  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:09:12,405  INFO main ProgectStepsMailRu:isFilterDelete:293 - filter deleted
+21:09:16,649  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:09:18,767  INFO main ProgectStepsMailRu:areLettersFlugged:217 - letters are flagged
+21:09:23,738  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:09:25,608  INFO main ProgectStepsMailRu:flagNotSet:234 - flag is not set
+21:09:30,036  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:09:34,169  INFO main ProgectStepsMailRu:checkIfMailIsSended:85 - mail sent
+21:09:38,391  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:09:40,589  INFO main ProgectStepsMailRu:checkIfMailIsDeleted:107 - mail deleted
+21:09:44,742  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:09:46,972  INFO main ProgectStepsMailRu:newFolderCreated:200 - folder created
+21:09:51,017  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:09:52,831  INFO main ProgectStepsMailRu:checkIfMailInSpam:119 - mail in spam
+21:09:57,664  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:10:00,121  INFO main ProgectStepsMailRu:checkIfMailNotInSpam:141 - mail is not in spam
+21:16:33,841  INFO main ProgectStepsMailRu:doesISeeForecast:167 - get astrological forecast
+21:16:41,829  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:16:48,227  INFO main ProgectStepsMailRu:isFilterCreate:261 - filter created
+21:16:53,427  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:17:00,994  INFO main ProgectStepsMailRu:isFilterDelete:293 - filter deleted
+21:17:06,091  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:17:08,084  INFO main ProgectStepsMailRu:areLettersFlugged:217 - letters are flagged
+21:17:15,211  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:17:17,399  INFO main ProgectStepsMailRu:flagNotSet:234 - flag is not set
+21:17:23,521  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:17:32,770  INFO main ProgectStepsMailRu:checkIfMailIsSended:85 - mail sent
+21:17:39,665  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:17:42,247  INFO main ProgectStepsMailRu:checkIfMailIsDeleted:107 - mail deleted
+21:17:50,481  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:20:34,312  INFO main ProgectStepsMailRu:doesISeeForecast:167 - get astrological forecast
+21:20:40,138  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:20:45,711  INFO main ProgectStepsMailRu:isFilterCreate:261 - filter created
+21:20:49,841  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:20:55,977  INFO main ProgectStepsMailRu:isFilterDelete:293 - filter deleted
+21:21:00,415  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:21:02,293  INFO main ProgectStepsMailRu:areLettersFlugged:217 - letters are flagged
+21:21:06,188  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:21:08,091  INFO main ProgectStepsMailRu:flagNotSet:234 - flag is not set
+21:21:12,046  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:21:15,519  INFO main ProgectStepsMailRu:checkIfMailIsSended:85 - mail sent
+21:21:19,347  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:21:20,846  INFO main ProgectStepsMailRu:checkIfMailIsDeleted:107 - mail deleted
+21:21:25,305  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:21:27,316  INFO main ProgectStepsMailRu:newFolderCreated:200 - folder created
+21:21:30,931  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:21:32,412  INFO main ProgectStepsMailRu:checkIfMailInSpam:119 - mail in spam
+21:21:35,847  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:25:33,196  INFO main ProgectStepsMailRu:doesISeeForecast:167 - get astrological forecast
+21:25:39,462  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:25:45,031  INFO main ProgectStepsMailRu:isFilterCreate:261 - filter created
+21:25:49,501  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:25:55,526  INFO main ProgectStepsMailRu:isFilterDelete:293 - filter deleted
+21:25:59,125  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:26:01,093  INFO main ProgectStepsMailRu:areLettersFlugged:217 - letters are flagged
+21:26:04,929  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:26:06,382  INFO main ProgectStepsMailRu:flagNotSet:234 - flag is not set
+21:26:10,376  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:26:13,816  INFO main ProgectStepsMailRu:checkIfMailIsSended:85 - mail sent
+21:28:17,623  INFO main ProgectStepsMailRu:doesISeeForecast:167 - get astrological forecast
+21:28:24,275  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:28:29,407  INFO main ProgectStepsMailRu:isFilterCreate:261 - filter created
+21:28:33,389  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:28:39,450  INFO main ProgectStepsMailRu:isFilterDelete:293 - filter deleted
+21:28:43,284  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:28:45,120  INFO main ProgectStepsMailRu:areLettersFlugged:217 - letters are flagged
+21:28:49,024  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:28:50,642  INFO main ProgectStepsMailRu:flagNotSet:234 - flag is not set
+21:28:54,559  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:28:58,180  INFO main ProgectStepsMailRu:checkIfMailIsSended:85 - mail sent
+21:29:02,280  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:29:03,801  INFO main ProgectStepsMailRu:checkIfMailIsDeleted:107 - mail deleted
+21:29:07,234  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:29:09,441  INFO main ProgectStepsMailRu:newFolderCreated:200 - folder created
+21:29:13,236  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:29:14,712  INFO main ProgectStepsMailRu:checkIfMailInSpam:119 - mail in spam
+21:29:18,139  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:32:51,015  INFO main ProgectStepsMailRu:doesISeeForecast:167 - get astrological forecast
+21:32:56,684  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:33:02,531  INFO main ProgectStepsMailRu:isFilterCreate:261 - filter created
+21:33:06,264  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:37:25,838  INFO main ProgectStepsMailRu:doesISeeForecast:167 - get astrological forecast
+21:37:31,916  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:37:37,023  INFO main ProgectStepsMailRu:isFilterCreate:261 - filter created
+21:37:40,919  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:37:46,905  INFO main ProgectStepsMailRu:isFilterDelete:293 - filter deleted
+21:37:51,036  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:37:52,868  INFO main ProgectStepsMailRu:areLettersFlugged:217 - letters are flagged
+21:37:56,494  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:37:58,578  INFO main ProgectStepsMailRu:flagNotSet:234 - flag is not set
+21:38:02,531  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:38:06,055  INFO main ProgectStepsMailRu:checkIfMailIsSended:85 - mail sent
+21:38:10,056  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:38:12,252  INFO main ProgectStepsMailRu:checkIfMailIsDeleted:107 - mail deleted
+21:38:16,198  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:38:18,668  INFO main ProgectStepsMailRu:newFolderCreated:200 - folder created
+21:38:23,091  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:38:24,678  INFO main ProgectStepsMailRu:checkIfMailInSpam:119 - mail in spam
+21:38:28,026  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+21:38:30,213  INFO main ProgectStepsMailRu:checkIfMailNotInSpam:141 - mail is not in spam
+22:17:04,965  INFO main ProgectStepsMailRu:doesISeeForecast:187 - get astrological forecast
+22:17:10,903  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+22:17:18,091  INFO main ProgectStepsMailRu:isFilterCreate:294 - filter created
+22:17:22,032  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+22:17:28,515  INFO main ProgectStepsMailRu:isFilterDelete:331 - filter deleted
+22:17:32,567  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+22:17:35,274  INFO main ProgectStepsMailRu:areLettersFlugged:244 - letters are flagged
+22:17:38,932  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+22:17:43,258  INFO main ProgectStepsMailRu:flagNotSet:263 - flag is not set
+22:17:46,700  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+22:17:52,156  INFO main ProgectStepsMailRu:checkIfMailIsSended:93 - mail sent
+22:17:55,727  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+22:17:58,236  INFO main ProgectStepsMailRu:checkIfMailIsDeleted:118 - mail deleted
+22:18:01,792  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+22:18:05,678  INFO main ProgectStepsMailRu:newFolderCreated:225 - folder created
+22:18:09,542  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+22:18:11,893  INFO main ProgectStepsMailRu:checkIfMailInSpam:132 - mail in spam
+22:18:15,735  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+22:18:18,168  INFO main ProgectStepsMailRu:checkIfMailNotInSpam:157 - mail is not in spam
+22:42:28,196  INFO main ProgectStepsMailRu:doesISeeForecast:193 - get astrological forecast
+22:42:34,785  INFO main ProgectStepsMailRu:clickEnterButton:34 - authorization was successful
+22:49:34,976  INFO main ProgectStepsMailRu:doesISeeForecast:191 - get astrological forecast
+22:49:40,037  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+22:49:46,780  INFO main ProgectStepsMailRu:isFilterCreate:298 - filter created
+22:49:50,464  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+22:49:57,189  INFO main ProgectStepsMailRu:isFilterDelete:335 - filter deleted
+22:50:00,853  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+22:50:03,556  INFO main ProgectStepsMailRu:areLettersFlugged:248 - letters are flagged
+22:50:07,011  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+22:50:10,639  INFO main ProgectStepsMailRu:flagNotSet:267 - flag is not set
+22:50:14,019  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+22:50:19,063  INFO main ProgectStepsMailRu:checkIfMailIsSended:92 - mail sent
+22:50:22,537  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+22:50:24,843  WARN main ProgectStepsMailRu:checkIfMailIsDeleted:117 - Attention.You can delete not that mail
+22:50:28,033  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+22:51:12,778  INFO main ProgectStepsMailRu:doesISeeForecast:191 - get astrological forecast
+22:51:18,262  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+22:51:25,167  INFO main ProgectStepsMailRu:isFilterCreate:298 - filter created
+22:51:28,796  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+22:51:35,568  INFO main ProgectStepsMailRu:isFilterDelete:335 - filter deleted
+22:51:39,259  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+22:51:41,749  INFO main ProgectStepsMailRu:areLettersFlugged:248 - letters are flagged
+22:51:45,045  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+22:51:48,907  INFO main ProgectStepsMailRu:flagNotSet:267 - flag is not set
+22:51:52,465  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+22:51:57,467  INFO main ProgectStepsMailRu:checkIfMailIsSended:92 - mail sent
+22:52:00,808  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+22:52:03,044  WARN main ProgectStepsMailRu:checkIfMailIsDeleted:117 - Attention.You can delete not that mail
+22:52:06,280  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+22:52:10,072  INFO main ProgectStepsMailRu:newFolderCreated:229 - folder created
+22:52:13,581  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+22:52:16,014  INFO main ProgectStepsMailRu:checkIfMailInSpam:131 - mail in spam
+22:52:19,412  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+22:52:21,995  INFO main ProgectStepsMailRu:checkIfMailNotInSpam:161 - mail is not in spam
+22:59:50,773  INFO main ProgectStepsMailRu:doesISeeForecast:191 - get astrological forecast
+22:59:55,744  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:00:02,792  INFO main ProgectStepsMailRu:isFilterCreate:298 - filter created
+23:00:06,234  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:01:14,639  INFO main ProgectStepsMailRu:doesISeeForecast:191 - get astrological forecast
+23:01:20,344  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:01:27,272  INFO main ProgectStepsMailRu:isFilterCreate:298 - filter created
+23:01:30,739  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:02:38,538  INFO main ProgectStepsMailRu:doesISeeForecast:191 - get astrological forecast
+23:02:43,220  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:02:50,149  INFO main ProgectStepsMailRu:isFilterCreate:298 - filter created
+23:02:53,692  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:04:57,701  INFO main ProgectStepsMailRu:doesISeeForecast:191 - get astrological forecast
+23:05:02,649  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:05:11,627  INFO main ProgectStepsMailRu:isFilterCreate:298 - filter created
+23:05:17,931  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:06:18,663  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:10:09,594  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:12:03,892  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:12:11,011  INFO main ProgectStepsMailRu:isFilterDelete:335 - filter deleted
+23:13:09,091  INFO main ProgectStepsMailRu:doesISeeForecast:191 - get astrological forecast
+23:13:14,803  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:13:21,962  INFO main ProgectStepsMailRu:isFilterCreate:298 - filter created
+23:13:25,361  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:13:31,807  INFO main ProgectStepsMailRu:isFilterDelete:335 - filter deleted
+23:13:35,424  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:13:37,882  INFO main ProgectStepsMailRu:areLettersFlugged:248 - letters are flagged
+23:13:41,408  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:13:45,328  INFO main ProgectStepsMailRu:flagNotSet:267 - flag is not set
+23:13:48,873  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:13:54,466  INFO main ProgectStepsMailRu:checkIfMailIsSended:92 - mail sent
+23:13:58,038  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:14:00,296  WARN main ProgectStepsMailRu:checkIfMailIsDeleted:117 - Attention.You can delete not that mail
+23:14:03,928  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:15:36,296  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:17:39,978  INFO main ProgectStepsMailRu:doesISeeForecast:191 - get astrological forecast
+23:17:45,641  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:17:52,772  INFO main ProgectStepsMailRu:isFilterCreate:298 - filter created
+23:17:56,515  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:18:02,988  INFO main ProgectStepsMailRu:isFilterDelete:335 - filter deleted
+23:18:06,202  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:18:08,749  INFO main ProgectStepsMailRu:areLettersFlugged:248 - letters are flagged
+23:18:12,273  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:18:16,110  INFO main ProgectStepsMailRu:flagNotSet:267 - flag is not set
+23:18:19,771  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:18:24,770  INFO main ProgectStepsMailRu:checkIfMailIsSended:92 - mail sent
+23:18:28,151  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:18:30,398  WARN main ProgectStepsMailRu:checkIfMailIsDeleted:117 - Attention.You can delete not that mail
+23:18:33,781  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:18:37,055  INFO main ProgectStepsMailRu:newFolderCreated:229 - folder created
+23:18:40,448  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:18:42,702  INFO main ProgectStepsMailRu:checkIfMailInSpam:131 - mail in spam
+23:18:45,902  INFO main ProgectStepsMailRu:clickEnterButton:32 - authorization was successful
+23:18:48,627  INFO main ProgectStepsMailRu:checkIfMailNotInSpam:161 - mail is not in spam

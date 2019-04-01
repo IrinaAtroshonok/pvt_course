@@ -1,0 +1,47 @@
+{
+  "uid" : "869cc918c047f67e",
+  "name" : "Then I see that filter deleted",
+  "title" : "Then I see that filter deleted",
+  "time" : {
+    "start" : 1554063482989,
+    "stop" : 1554063482989,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "473a458f97cc5761",
+    "name" : "Scenario: Delete filter",
+    "title" : "Scenario: delete filter"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Irisha"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "24604@Irisha.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Delete filter"
+  } ],
+  "parameters" : [ ]
+}

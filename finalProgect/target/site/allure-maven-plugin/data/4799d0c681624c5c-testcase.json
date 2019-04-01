@@ -1,0 +1,47 @@
+{
+  "uid" : "4799d0c681624c5c",
+  "name" : "When I choose folder",
+  "title" : "When I choose folder",
+  "time" : {
+    "start" : 1554063470137,
+    "stop" : 1554063470137,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "658a088009eacfef",
+    "name" : "Scenario: Create filter",
+    "title" : "Scenario: create filter"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Irisha"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "24604@Irisha.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Create filter"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  } ],
+  "parameters" : [ ]
+}

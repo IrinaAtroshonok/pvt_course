@@ -1,0 +1,47 @@
+{
+  "uid" : "f2b86f6ce1a8896",
+  "name" : "When I choose astrology period",
+  "title" : "When I choose astrology period",
+  "time" : {
+    "start" : 1554063459946,
+    "stop" : 1554063459946,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "90f484dda7a3bb00",
+    "name" : "Scenario: See the astrological forecast for the scorpion for the year",
+    "title" : "Scenario: see the astrological forecast for the scorpion for the year"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Irisha"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "24604@Irisha.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: See the astrological forecast for the scorpion for the year"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  } ],
+  "parameters" : [ ]
+}

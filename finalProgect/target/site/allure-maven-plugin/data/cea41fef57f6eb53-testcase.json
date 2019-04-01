@@ -1,0 +1,47 @@
+{
+  "uid" : "cea41fef57f6eb53",
+  "name" : "When I get response",
+  "title" : "When I get response",
+  "time" : {
+    "start" : 1554063447443,
+    "stop" : 1554063447443,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "6a54b119ed9b1f82",
+    "name" : "Scenario: Posting on the wall",
+    "title" : "Scenario: posting on the wall"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Irisha"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "24604@Irisha.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Scenario: Posting on the wall"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  } ],
+  "parameters" : [ ]
+}
